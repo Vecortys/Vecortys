@@ -7,5 +7,6 @@
 <table width="100%">
   <tr>
     <td width="75%"><img alt="Isometric contribution calendar" src="./bottom.svg" width="100%" /></td>
+    <td width="25%"><img src="./heart.gif" width="100%"></td>
   </tr>
 </table>
