@@ -1,16 +1,11 @@
-## Hi there 👋
+<table width="100%">
+  <tr>
+    <td><img alt="Vecortys GitHub metrics" src="./bigass.svg" width="100%" /></td>
+  </tr>
+</table>
 
-<!--
-**Vecortys/Vecortys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <tr>
+    <td width="75%"><img alt="Isometric contribution calendar" src="./bottom.svg" width="100%" /></td>
+  </tr>
+</table>
